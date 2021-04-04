@@ -23,7 +23,7 @@
     <MusicVolume>0.65</MusicVolume>
   </Audio>
   <Gameplay>
-    <GameplayVersion>0</GameplayVersion>
+    <GameplayVersion>1</GameplayVersion>
     <AutosavingInterval>120</AutosavingInterval>
     <CameraRotationSensitivityX>1</CameraRotationSensitivityX>
     <CameraRotationSensitivityY>1</CameraRotationSensitivityY>
@@ -33,6 +33,7 @@
     <AutomaticallyMoveBuildingTarget>1</AutomaticallyMoveBuildingTarget>
     <BuildViewMode>1</BuildViewMode>
     <UILayoutReferenceHeight>1080</UILayoutReferenceHeight>
+    <DemolishContainerQuery>1</DemolishContainerQuery>
   </Gameplay>
   <Control />
   <Miscellaneous>
