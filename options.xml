@@ -31,7 +31,7 @@
     <BuildingWarnMask>1023</BuildingWarnMask>
     <ResearchQueueAlwaysOnDisplay>1</ResearchQueueAlwaysOnDisplay>
     <AutomaticallyMoveBuildingTarget>1</AutomaticallyMoveBuildingTarget>
-    <BuildViewMode>1</BuildViewMode>
+    <BuildViewMode>0</BuildViewMode>
     <UILayoutReferenceHeight>1080</UILayoutReferenceHeight>
     <DemolishContainerQuery>1</DemolishContainerQuery>
   </Gameplay>
